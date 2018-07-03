@@ -27,7 +27,7 @@ in the meantime, I wil be going to bed. I hope I can curb this habit and stick t
 **Link to work:** 
 Unity cloud game project: //to be announced at a later time
 
-### Day 1: July 2, 2018
+### Day 2: July 2, 2018
 
 **Today's Progress**: Reviewing scripts for the unity game project and understanding the game configuration details
 

@@ -40,3 +40,24 @@ before starting todays hour of coding, I needed and told myself to finish an art
 **Link to work:** 
 Unity cloud game project: //to be announced at a later time
 Article read: https://qz.com/1310792/the-secret-to-a-meaningful-life-is-simpler-than-you-think/
+
+### Day 3: July 10, 2018
+
+**Today's Progress**: Practicing puzzle programming exercises on CodeSignal and Codingame sites
+
+**Thoughts:** While I have been reluctant in regards to relying on competitative coding sites like Codingame and Codesignal (formerly codefights?) I think they offer some value in getting some logic practice in with coding. An acquaintance I look up to for their programming skill was a bit dismissive on these sites which I could understand given how long they've coded for themselves but I figure just because something doesn't work for one person doesn't mean it won't work for me. So on occasion I'll try to do these exercises as a part of the 100days of coding regimen. The one exception I've heard folks getting picked up from is topcoder, which to be honest I'm not sure I'm ready to take on. I did also register with HackerRank a while back to practice exercises and I'll probably try to fit in that somewhere once in a while.
+
+The big motivation that pulled me towards these sights was actually trying out a live competive coding session and doing very poorly. (by my standards) Nothing like being personally embarassment to light a fire to 
+
+The 100days of code challenge did stress the importance of selecting a project to continueously work on to get the maximum benefit and I suppose I should try to put in hours for those. But in my personal experience, just throwing your ideas against a wall to solve a difficult problem can burn me out and not satisfy the personal need of feeling accomplished. while these exercises might not lead to any publishable work, they do scratch an itch to at least feel as though I'm building up my programming experience.
+
+While it has been a bit of a gap between my last post and this one (at least over a week), I did pursue some activity in coding on sites like those I've already mentioned. I just hadn't the will to make a post about it. I thought it would be better to not "cheat" the process by posting retroactively and just continue as I did before. (although it's a shame the coding streak was so short lived :( )
+
+I think I'm going to wrap up the day by just reading up c# tutorials on some more advanced concepts and get a former project I've been neglecting ready to work on. While my enthusiasm for it isn't as strong as when the project was first concieved, these exercises have made the anxiety of not arriving at an immediate solution a bit better.
+
+**Link to work:** 
+Follow or add me on these competitive coding sites if you like:
+Hackerrank: https://www.hackerrank.com/JoffreM
+Topcoder:   https://www.topcoder.com/members/sparkcloud/
+Codingame:  https://www.codingame.com/profile/bd2676ce5130fb1ab131ae2a7cdaebf05839142
+CodeSignal: https://app.codesignal.com/profile/sparkcloud
